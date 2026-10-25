@@ -18,8 +18,7 @@
 
 [天眼 · 姿态行为检测](https://github.com/Hellucigen/The-Institute-Eyes) ·
 [Kaggle 方案集](https://github.com/Hellucigen/Kaggle-Competitions) ·
-[工具集](https://github.com/Hellucigen/Tools) ·
-[课程归档](https://github.com/Hellucigen/School-Work)
+[工具集](https://github.com/Hellucigen/Tools)
 
 ---
 *Everything is a node.*
